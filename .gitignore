@@ -1,0 +1,16 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+frontend/node_modules/
+
+# React build folder
+frontend/build/
+
+# Environment variables and credentials
+.env
+.DS_Store # macOS files
+
+# Large model file
+deforestation_model.h5
